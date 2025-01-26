@@ -41,7 +41,6 @@ Key Findings
 Using PCA simplified the dataset without losing meaningful patterns.
 The Elbow Method helped determine an optimal k-value, ensuring better-defined clusters.
 Clusters became more distinct and interpretable after applying PCA.
-Results & Visualizations
 
 ## Conclusion
 
